@@ -11,3 +11,8 @@ python_project_template/
      tests/
          NAME_tests.py
          __init__.py
+
+
+nosetests:
+
+    run python3 -m 'nose'
